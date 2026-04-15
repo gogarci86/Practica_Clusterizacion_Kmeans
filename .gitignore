@@ -6,4 +6,4 @@
 
 # (Opcional) No ignorar este propio archivo .gitignore
 !.gitignore
-!dependencies.txt
+!requirements.txt
