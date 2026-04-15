@@ -1,0 +1,8 @@
+# Ignorar todo el contenido de la carpeta
+*
+
+# No ignorar el archivo de la aplicación
+!clustering_app.py
+
+# (Opcional) No ignorar este propio archivo .gitignore
+!.gitignore
